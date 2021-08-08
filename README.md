@@ -20,6 +20,10 @@ Features
 * Recommended diets and videos suggested by the app based on the BMI calculated on the given input
 <img src ="Images/bmi_calculator.png" height = "600" width = "300">
 
+### Diet Plan
+<img src ="Images/recipie.png" height = "600" width = "300" align="left">
+<img src ="Images/food-list.jpg" height = "600" width = "300" align="right">
+
 ### Chatbot
 * Generic diagnosis provided by chatbot based on the symptoms entered by the user
 * Suggestions to consult the appropriate professional help
