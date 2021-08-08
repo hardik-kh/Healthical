@@ -18,7 +18,7 @@ Features
 ### BMI Calculator
 * Easy calculation of BMI using the height and weight to be entered by the user
 * Recommended diets and videos suggested by the app based on the BMI calculated on the given input
-<img src ="Images/bmi_calculator.png" height = "700" width = "320">
+<img src ="Images/bmi_calculator.png" height = "600" width = "300">
 
 ### Chatbot
 * Generic diagnosis provided by chatbot based on the symptoms entered by the user
