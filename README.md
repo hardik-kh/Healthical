@@ -22,8 +22,8 @@ Features
 
 ### Diet Plan
 -------
-* Recommends the diet according to the BMI calculated on the given input 
-* Recommended diets and videos suggested by the app based on the BMI calculated on the given input
+* Recommends the diet list according to the BMI calculated on the given input 
+* Provieds a detail recipie for a particular food item 
 <div>
 <img src ="Images/food-list.jpg" height = "600" width = "300">
 <img src ="Images/recipie.png" height = "600" width = "300"  >
