@@ -21,9 +21,10 @@ Features
 <img src ="Images/bmi_calculator.png" height = "600" width = "300">
 
 ### Diet Plan
-------
+-------
 
-|<img src ="Images/recipie.png" height = "600" width = "300" >| <img src ="Images/food-list.jpg" height = "600" width = "300">|
+<img src ="Images/recipie.png" height = "600" width = "300" >
+<img src ="Images/food-list.jpg" height = "600" width = "300">
 
 * This is point 1
 * this is point 2
