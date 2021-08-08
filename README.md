@@ -28,16 +28,3 @@ Features
 <img src ="Images/healthical_bot.png" height = "700" width = "320">
 
 ------
-
-### Made with <3 by
-[Ram Prakash Reddy](https://github.com/ramprakashreddy) 
-:man_technologist:
-
-[Zuber Rahman](https://github.com/zuberrahman)
-:prince:
-
-[Riya S](https://github.com/Rrs-4817)
-:trollface:
-
-[Hardik Khandelwal](https://github.com/hardik-kh)
-:man_judge:
