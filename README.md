@@ -7,11 +7,11 @@ App Screens
 -------
 | Splash Screen        | SignUp Page           | 
 | ------------- | -----:|
-| <img src ="Images/splash_screen.png" height = "700" width = "320">     | <img src ="Images/signup_page.png" height = "700" width = "320">| 
+| <img src ="Images/splash_screen.png" height = "600" width = "300">     | <img src ="Images/signup_page.png" height = "600" width = "300">| 
 ------
 | Login Page        | Home Screen          | 
 | ------------- | -----:|
-| <img src ="Images/login_page.png" height = "700" width = "320">     | <img src ="Images/home_page.png" height = "700" width = "320">|
+| <img src ="Images/login_page.png" height = "600" width = "300">     | <img src ="Images/home_page.png" height = "600" width = "300">|
 
 Features
 ------
@@ -25,6 +25,6 @@ Features
 * Suggestions to consult the appropriate professional help
 * Contact number of certified health professionals 
 
-<img src ="Images/healthical_bot.png" height = "700" width = "320">
+<img src ="Images/healthical_bot.png" height = "600" width = "300">
 
 ------
