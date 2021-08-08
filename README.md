@@ -23,6 +23,8 @@ Features
 ### Diet Plan
 <img src ="Images/recipie.png" height = "600" width = "300" align="left">
 <img src ="Images/food-list.jpg" height = "600" width = "300" align="right">
+* This is point 1
+* this is point 2
 <br/>
 
 ### Chatbot
