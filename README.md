@@ -22,12 +22,12 @@ Features
 
 ### Diet Plan
 -------
-* Easy calculation of BMI using the height and weight to be entered by the user
+* Recommends the diet according to the BMI calculated on the given input 
 * Recommended diets and videos suggested by the app based on the BMI calculated on the given input
 <div>
-<img src ="Images/recipie.png" height = "600" width = "300"  >
 <img src ="Images/food-list.jpg" height = "600" width = "300">
- </div>
+<img src ="Images/recipie.png" height = "600" width = "300"  >
+</div>
 
 
 
