@@ -22,9 +22,10 @@ Features
 
 ### Diet Plan
 -------
-
+<div>
 <img src ="Images/recipie.png" height = "600" width = "300" >
 <img src ="Images/food-list.jpg" height = "600" width = "300">
+ </div>
 
 * This is point 1
 * this is point 2
