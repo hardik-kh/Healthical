@@ -23,13 +23,12 @@ Features
 ### Diet Plan
 -------
 <div>
-<img src ="Images/recipie.png" height = "600" width = "300" padding="40" >
+<img src ="Images/recipie.png" height = "600" width = "300"  >
 <img src ="Images/food-list.jpg" height = "600" width = "300">
  </div>
+* Easy calculation of BMI using the height and weight to be entered by the user
+* Recommended diets and videos suggested by the app based on the BMI calculated on the given input
 
-* This is point 1
-* this is point 2
-<br/><br/><br/><br/><br/><br/>
 
 ### Chatbot
 * Generic diagnosis provided by chatbot based on the symptoms entered by the user
