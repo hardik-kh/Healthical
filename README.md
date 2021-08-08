@@ -28,7 +28,7 @@ Features
   </div>
 * This is point 1
 * this is point 2
-<br/>
+<br/><br/><br/><br/><br/><br/>
 
 ### Chatbot
 * Generic diagnosis provided by chatbot based on the symptoms entered by the user
