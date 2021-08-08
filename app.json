@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Healthical",
+    "slug": "healthical",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ic_launcher.png"
+      },
+      "package": "com.rpr1616.healthical"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
